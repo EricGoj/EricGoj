@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Quevedo</h1>
-<h3 align="center">I'm a backend-focused Software Developer who enjoys applying cutting-edge technology to solve real-world problems. I'm passionate about building scalable systems and love testing performance limits to see how far things can go. I care about clean, efficient code and finding smart ways to improve how systems behave — not just making them work, but making them work better. I'm always curious and enjoy digging into technical challenges, especially when there's a chance to learn something new or push boundaries.</h3>
+<h3 align="center">I'm a backend-focused Developer who enjoys applying technology to solve real-world problems. I'm like learn about building scalable systems and how improve the perfomance. I care about clean, efficient code and finding smart ways to improve how systems behave.</h3>
 
 - 🔭 I'm currently working on **on my webpage**
 
