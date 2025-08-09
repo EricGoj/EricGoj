@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **on my webpage**
 
-- 🌱 I'm currently learning **MCPs**
+- 🌱 I'm currently learning **AWS Developer Asocciate Certificate**
 
 - 💬 Ask me about **Java or Microservices**
 
