@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric Quevedo</h1>
 <h3 align="center">I'm a backend-focused Developer who enjoys applying technology to solve real-world problems. I'm like learn about building scalable systems and how improve the perfomance. I care about clean, efficient code and finding smart ways to improve how systems behave.</h3>
 
-- 🔭 I'm currently working on **on my webpage**
-
-- 🌱 I'm currently learning **AWS Developer Asocciate Certificate**
-
-- 💬 Ask me about **Java or Microservices**
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
